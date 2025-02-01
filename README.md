@@ -49,8 +49,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 Contato
 Autor: Evandro Galvão
 
-Email: [seu-email@example.com]
+Email: evandrogalvao1@gmail.com
 
-GitHub: seu-usuario
+GitHub: evandrogalvao1
 
 Esse README fornece uma visão completa do projeto, desde a instalação até exemplos de uso e diagramas de arquitetura. Se precisar de mais detalhes ou ajustes, é só perguntar! 😊
