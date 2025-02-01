@@ -49,7 +49,9 @@ ecommerce/
 │
 ├── app/
 │   ├── __init__.py
+
 │   ├── models/
+
 │   │   └── cliente.py
 │   ├── controllers/
 │   │   └── cliente_controller.py
