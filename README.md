@@ -47,8 +47,8 @@ Estrutura do Projeto
 Copy
 ecommerce/
 │
-├── app/\n
-│   ├── __init__.py\n
+├── app/
+│   ├── __init__.py
 │   ├── models/
 │   │   └── cliente.py
 │   ├── controllers/
