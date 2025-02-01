@@ -1,4 +1,5 @@
 Sistema de Gerenciamento de Clientes do E-commerce
+
 Este projeto é uma API RESTful desenvolvida em Python com o framework Flask para gerenciar o cadastro de clientes de um e-commerce. A aplicação segue o padrão de arquitetura MVC (Model-View-Controller) e utiliza um banco de dados SQLite para armazenamento de dados.
 
 Funcionalidades
